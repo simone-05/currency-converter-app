@@ -1,0 +1,29 @@
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textFontWeight">500</item>
+        <item name="colorPrimary">@android:color/system_accent1_600</item>
+        <item name="colorOnPrimary">@android:color/system_accent1_0</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+        <item name="materialButtonStyle">@style/CustomButtonStyle</item>
+        <item name="toolbarStyle">@style/CustomActionBarTheme</item>
+    </style>
+
+    <style name="CustomActionBarTheme" parent="Widget.Material3.Toolbar">
+        <item name="android:background">?attr/colorPrimary</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="titleTextAppearance">@style/ToolbarTitleText</item>
+    </style>
+
+    <style name="ToolbarTitleText" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="CustomButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:padding">14dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

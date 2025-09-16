@@ -1,0 +1,9 @@
+.gradle
+.kotlin
+.vscode
+/build
+/app/build
+/local.properties
+
+a.sh
+local.properties

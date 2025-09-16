@@ -1,0 +1,13 @@
+It is a very lightweight app designed for quick, offline currency conversion.
+Ideal for travelers and anyone needing a fast, reliable conversion tool without any extra features.
+It just does what is supposed to do nothing else.
+
+Features:
+ - It’s compact, easy to use, fast
+ - Offline
+ - No data collection, everything is on your device. You delete the app, and everything with it
+ - Big characters for easy reading
+ - No ads
+
+How to:
+Input the names of the two currencies, and the conversion ratio (pay attention to the direction of the conversion).
