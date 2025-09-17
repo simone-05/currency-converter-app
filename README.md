@@ -16,4 +16,4 @@ It just does what is supposed to do nothing else.
 It will automatically save the inputs, so that if you close the application it will resume right from the conversion screen, for fastest usage.
 
 ## License
-[GPL-3.0](LICENSE)
+[AGPL-3.0](LICENSE)
